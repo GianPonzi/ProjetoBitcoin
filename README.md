@@ -15,3 +15,8 @@ python agente.py
 ```
 
 ## Comandos para testar prompts diferentes
+
+- Rodar a função `testar_prompt_com_dados_cacheados` no arquivo `teste_prompt.py` para testar diferentes prompts com dados cacheados.
+
+## Diagrama inicial do projeto
+![Diagrama do Projeto](src//imagens//Diagrama_Projeto.png)
